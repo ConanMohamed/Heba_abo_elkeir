@@ -15,7 +15,8 @@ Welcome to Heba Abo Elkheir's Food Recipes App, your ultimate culinary companion
 
 ## Screenshots
 
-![Food Recipes App Screens](path/to/your/screenshot.png)
+![Food Recipes App Screens](https://github.com/ConanMohamed/Heba_abo_elkeir/assets/92757670/8fc65375-22b6-4a99-a5e7-b7b3f6a9b60d)
+
 
 ## Usage
 
